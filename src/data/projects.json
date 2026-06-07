@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Product Sentiment Analysis",
+    "description": " The system processes the input (amazon or daraz product url)using NLP techniques and generates insights such as sentiment distribution, key terms, and overall product perception.",
+    "leader": "Sujita Moktan",
+    "members": [],
+    "link":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Maternal Health Risk Triage System using Machine Learning",
+    "description": " This project aims to develop a machine learning–based Maternal Health Risk Triage System that can assist in early risk prediction by analyzing patient health parameters and classifying pregnant women into different risk categories such as Low Risk, Medium Risk, and High Risk.",
+    "leader": "Sanam Marikhu",
+    "members": ["Dishant Shrestha"],
+    "link":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Regression Modeling",
+    "description": "",
+    "leader": "Rajendra Tahamata",
+    "members": ["Sundar Tamang","Suman Adhikari","Prajit Prajapati"],
+    "link":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "salary analyzer",
+    "description": "Using CVS datasets and common algorithms as mean, standared deviation sorting high to low.",
+    "leader": "Apil chaulagain",
+    "members": ["Ganesh Shrestha","Bina Khatri","Samrachana Kafle","Nischal Shrestha"],
+    "link":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "expense tracker",
+    "description": "",
+    "leader": "jashika shrestha",
+    "members": ["sirjana timalsina"],
+    "link":"",
+    "rating" : "5"
+    
+  },
+  {
+    "title": "Student Performance Analysis",
+    "description": "The goal of this project is to analyze and predict student academic performance based on various factors such as study habits, attendance, parental education, socioeconomic background, and previous grades.",
+    "leader": "Kriti Mathya",
+    "members": ["Sanjaya Lama"],
+    "link":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Simulation of a real-world business intelligence task",
+    "description": "This project simulates a real-world business intelligence task, and deals with missing data, data types, and time-series analysis. \nLibraries Used: Pandas (heavily), NumPy, Matplotlib.",
+    "leader": "Amrit Kandel",
+    "members": ["Nabin Thuyaju","Bibek Ghorasainee","Shree Pujan Adhikari"],
+    "link":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "About customer churn prediction ",
+    "description": "",
+    "leader": "Nischal Bohaju",
+    "members": ["Shijan Duwal","Agrash Shrestha"],
+    "link":"",
+    "rating" : "4.5"
+
+  }
+]

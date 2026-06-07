@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Python Basics",
+    "category": "Cheat Sheet",
+    "type": "PDF",
+    "topic": "Python Programming",
+    "url": "/files/cheatsheets/Day 02.pdf"
+  },
+  {
+    "title": "OOP in Python",
+    "category": "Cheat Sheet",
+    "type": "PDF",
+    "topic": "Python Programming",
+    "url": "/files/cheatsheets/Day 03.pdf"
+  },
+  {
+    "title": "File Manipulation",
+    "category": "Cheat Sheet",
+    "type": "PDF",
+    "topic": "Python Programming",
+    "url": "/files/cheatsheets/Day 04.pdf"
+  },
+  {
+    "title": "Numpy Array",
+    "category": "Cheat Sheet",
+    "type": "PDF",
+    "topic": "Numpy",
+    "url": "/files/cheatsheets/Day 05 Numpy.pdf"
+  },
+  {
+    "title": "Numpy Array Continued..",
+    "category": "Cheat Sheet",
+    "type": "PDF",
+    "topic": "Numpy",
+    "url": "/files/cheatsheets/Day 06 _numpy continued.pdf"
+  },
+  {
+    "title": "Matplotlib",
+    "category": "Cheat Sheet",
+    "type": "PDF",
+    "topic": "Matplotlib",
+    "url": "/files/cheatsheets/Day_sth_matplotlib.pdf"
+  },
+  {
+    "title": "Linear Regression",
+    "category": "Cheat Sheet",
+    "type": "PDF",
+    "topic": "Linear Regression",
+    "url": "/files/cheatsheets/Linear Regression.pdf"
+  },
+  {
+    "title": "Gradient Descent",
+    "category": "Cheat Sheet",
+    "type": "PDF",
+    "topic": "Gradient Descent",
+    "url": "/files/cheatsheets/Gradient Descent.pdf"
+  }
+  
+]

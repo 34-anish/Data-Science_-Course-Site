@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Introduction to Data Science",
+        "slug": "introduction-to-data-science",
+        "level": "1 HOUR",
+        "description": "Learn what data science is, where it is used, and the basic workflow of a data science project.",
+        "topics": [
+            "What is Data Science?",
+            "Data Science lifecycle",
+            "Tools used in Data Science",
+            "Real-world applications"
+        ],
+        "resources": [
+            {
+                "label": "Lecture Slides",
+                "type": "PPT",
+                "url": "/files/slides/Data Science 01.pptx"
+            }
+        ]
+    },
+    {
+        "title": "Introduction to Python Programming",
+        "slug": "introduction-to-python-programming",
+        "level": "8 HOURS",
+        "description": "Python Programming",
+        "topics": [
+            "Data Wrangling",
+            "Data Types",
+            "Comparison",
+            "Functions",
+            "Lambda Functions"
+        ],
+        "resources": [
+            {
+                "label": "Lecture Slides",
+                "type": "PPT",
+                "url": "/files/slides/Data Science 02.pptx"
+            }
+        ]
+    },
+    {
+        "title": " Numpy Pandas Matplotlib for Data Analysis",
+        "slug": "pandas-for-data-analysis",
+        "level": "10 HOURS",
+        "description": "Learn how to load, clean, filter, group, and analyze data using Pandas.",
+        "topics": [
+            "Series and DataFrame",
+            "Reading CSV files",
+            "Filtering data",
+            "GroupBy",
+            "Handling missing values"
+        ],
+        "resources": [
+            {
+                "label": "Slide",
+                "type": "Slide",
+                "url": "files/slides/Numpy.pptx"
+            }
+        ]
+    },
+    {
+        "title": "Linear Regression",
+        "slug": "lr-for-data-analysis",
+        "level": "7 HOURS",
+        "description": "Learn how to m and b for y = mx+b",
+        "topics": [
+            "Linear Regression",
+            "Derivation of m_best",
+            "Derivation of b_best",
+            "Implementation of Linear Regression from scratch",
+            "Linear Regression from Sklearn Library"
+        ],
+        "resources": [
+            {
+                "label": "Advertising.csv",
+                "type": "Dataset",
+                "url": "files/datasets/Advertising.csv"
+            },
+            {
+                "label": "Code",
+                "type": "Cheatsheet",
+                "url": "files/cheatsheets/LR.pdf"
+            }
+        ]
+    }
+]
