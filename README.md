@@ -29,8 +29,17 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Deploy on GitHub Pages
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is configured for GitHub Pages project hosting.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Push your code to the `main` branch on GitHub.
+2. In your repository, go to `Settings` > `Pages`.
+3. Under `Build and deployment`, select `GitHub Actions`.
+4. The workflow in `.github/workflows/deploy.yml` will build and publish the site automatically.
+
+Your site will be published at:
+
+```text
+https://34-anish.github.io/Data-Science_-Course-Site/
+```
