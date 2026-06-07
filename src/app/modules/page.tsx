@@ -1,6 +1,7 @@
 "use client";
 
 import modulesData from "@/data/modules.json";
+import { resolvePublicFileUrl } from "@/lib/publicFileUrl";
 
 type Resource = {
   label: string;
@@ -21,7 +22,7 @@ const modules = modulesData as Module[];
 
 function downloadUrl(url: string) {
   const a = document.createElement("a");
-  a.href = encodeURI(url);
+  a.href = encodeURI(resolvePublicFileUrl(url));
   a.target = "_blank";
   a.rel = "noreferrer";
   a.click();
@@ -78,7 +79,7 @@ export default function ModulesPage() {
                         Download
                       </button>
                       
-                      <a href={res.url} target="_blank" rel="noreferrer"  className="rounded-md bg-green-700 px-3 py-1 text-sm font-medium text-white">
+                      <a href={resolvePublicFileUrl(res.url)} target="_blank" rel="noreferrer"  className="rounded-md bg-green-700 px-3 py-1 text-sm font-medium text-white">
                         Open
                       </a>
                     </div>

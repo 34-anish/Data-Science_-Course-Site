@@ -1,4 +1,5 @@
 import resources from "@/data/resources.json";
+import { resolvePublicFileUrl } from "@/lib/publicFileUrl";
 
 export default function ResourcesPage() {
   return (
@@ -27,7 +28,7 @@ export default function ResourcesPage() {
             </p>
 
             <a
-              href={resource.url}
+              href={resolvePublicFileUrl(resource.url)}
               className="mt-4 inline-block rounded-lg bg-blue-700 px-4 py-2 text-sm font-medium text-white"
             >
               Download

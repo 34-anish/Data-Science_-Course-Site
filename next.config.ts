@@ -8,6 +8,9 @@ const nextConfig: NextConfig = {
   },
   basePath: "/Data-Science_-Course-Site",
   assetPrefix: "/Data-Science_-Course-Site",
+  env: {
+    NEXT_PUBLIC_BASE_PATH: "/Data-Science_-Course-Site"
+  },
   reactCompiler: true,
 };
 
