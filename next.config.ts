@@ -1,15 +1,17 @@
 import type { NextConfig } from "next";
 
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 const nextConfig: NextConfig = {
   output: "export",
   trailingSlash: true,
   images: {
     unoptimized: true
   },
-  basePath: "/Data-Science_-Course-Site",
-  assetPrefix: "/Data-Science_-Course-Site",
+  basePath: basePath || undefined,
+  assetPrefix: basePath || undefined,
   env: {
-    NEXT_PUBLIC_BASE_PATH: "/Data-Science_-Course-Site"
+    NEXT_PUBLIC_BASE_PATH: basePath
   },
   reactCompiler: true,
 };
