@@ -14,7 +14,7 @@
             {
                 "label": "Lecture Slides",
                 "type": "PPT",
-                "url": "/files/slides/Data Science 01.pptx"
+                "url": "././files/slides/Data Science 01.pptx"
             }
         ]
     },
@@ -34,7 +34,7 @@
             {
                 "label": "Lecture Slides",
                 "type": "PPT",
-                "url": "/files/slides/Data Science 02.pptx"
+                "url": "././files/slides/Data Science 02.pptx"
             }
         ]
     },
@@ -45,7 +45,7 @@
         "description": "Learn how to load, clean, filter, group, and analyze data using Pandas.",
         "topics": [
             "Series and DataFrame",
-            "Reading CSV files",
+            "Reading CSV ./files",
             "Filtering data",
             "GroupBy",
             "Handling missing values"
@@ -54,7 +54,7 @@
             {
                 "label": "Slide",
                 "type": "Slide",
-                "url": "files/slides/Numpy.pptx"
+                "url": "./files/slides/Numpy.pptx"
             }
         ]
     },
@@ -74,12 +74,12 @@
             {
                 "label": "Advertising.csv",
                 "type": "Dataset",
-                "url": "files/datasets/Advertising.csv"
+                "url": "./files/datasets/Advertising.csv"
             },
             {
                 "label": "Code",
                 "type": "Cheatsheet",
-                "url": "files/cheatsheets/LR.pdf"
+                "url": "./files/cheatsheets/LR.pdf"
             }
         ]
     }
