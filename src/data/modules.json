@@ -80,7 +80,33 @@
                 "label": "Code",
                 "type": "Cheatsheet",
                 "url": "./files/cheatsheets/LR.pdf"
+            },
+            {
+                "label": "Notebook of June 8th",
+                "type": "Notebook",
+                "url": "./files/notebooks/june_08.ipynb"
             }
+        ]
+    },
+    {
+        "title": "Gradient Descent",
+        "slug": "gradient-descent",
+        "level": "6 HOURS",
+        "description": "Learn about gradient descent",
+        "topics": [
+            "Gradeient Descent",
+            "Derivation of dJ/dm",
+            "Derivation of dJ/db",
+            "Implementation of Gradient Descent from scratch",
+            "Stochastic Gradient Descent from Sklearn Library"
+        ],
+        "resources": [
+            {
+                "label": "Cheatsheet",
+                "type": "Cheatsheet",
+                "url": "./files/cheatsheets/LR.pdf"
+            }
+
         ]
     }
 ]
