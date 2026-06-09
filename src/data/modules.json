@@ -108,5 +108,37 @@
             }
 
         ]
+    },
+    {
+        "title": "Data Visualization & working on titanic datasets",
+        "slug": "Data-science",
+        "level": "6 HOURS",
+        "description": "Learn about data science with dataset",
+        "topics": [
+            "Titanic Dataset",
+            "Sigmoid Function",
+            "Filling NAN",
+            "Logistic Regression",
+            "CLassification Matrix"
+        ],
+        "resources": [ {
+                "label": "Titanic.csv",
+                "type": "Dataset",
+                "url": "./files/datasets/train.csv"
+            }      ]
+    },
+    {
+        "title": "Logistic Regression",
+        "slug": "logistic-regression",
+        "level": "6 HOURS",
+        "description": "Learn about logisitic Regression",
+        "topics": [
+            "Logistic Regression",
+            "Sigmoid Function",
+            "Loss Function",
+            "Implementation of Logistic Regression from scratch",
+            "Logistic Regression from Sklearn Library"
+        ],
+        "resources": [        ]
     }
 ]
