@@ -17,9 +17,13 @@ export default function ProjectsPage() {
             key={project.title}
             className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm"
           >
-            <h2 className="text-lg font-semibold text-slate-900">{project.title}</h2>
+            <h2 className="text-lg font-semibold text-slate-900">
+              {project.title}
+            </h2>
 
-            <p className="mt-2 text-sm text-slate-600">{project.description || "No description provided."}</p>
+            <p className="mt-2 text-sm text-slate-600">
+              {project.description || "No description provided."}
+            </p>
 
             <div className="mt-4 flex items-center justify-between">
               <div className="text-sm text-slate-500">
@@ -27,25 +31,29 @@ export default function ProjectsPage() {
                   <strong>Leader:</strong> {project.leader || "—"}
                 </div>
                 <div className="mt-1">
-                  <strong>Members:</strong>{' '}
+                  <strong>Members:</strong>{" "}
                   {project.members && project.members.length > 0 ? (
                     project.members.join(", ")
                   ) : (
-                    <span className="text-slate-400">No additional members</span>
+                    <span className="text-slate-400">
+                      No additional members
+                    </span>
                   )}
                 </div>
               </div>
 
               <div className="flex flex-col items-end">
                 <div className="text-sm text-amber-600">
-                  {Array.from({ length: Math.max(0, Number(project.rating || 0)) }).map((_, i) => (
+                  {Array.from({
+                    length: Math.max(0, Number(project.rating || 0)),
+                  }).map((_, i) => (
                     <span key={i}>★</span>
                   ))}
                 </div>
 
                 {project.link ? (
                   <a
-                    href={project.link}
+                    href={Array.isArray(project.link) ? project.link[0] : project.link}
                     target="_blank"
                     rel="noreferrer"
                     className="mt-3 inline-block rounded-md bg-blue-700 px-3 py-1 text-sm font-medium text-white"
@@ -62,7 +70,7 @@ export default function ProjectsPage() {
                     rel="noreferrer"
                     className="mt-3 inline-block rounded-md bg-blue-700 px-3 py-1 text-sm font-medium text-white"
                   >
-                    Github 
+                    Github
                   </a>
                 ) : (
                   <span className="mt-3 text-sm text-slate-400"></span>
