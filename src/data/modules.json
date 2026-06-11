@@ -104,7 +104,7 @@
             {
                 "label": "Cheatsheet",
                 "type": "Cheatsheet",
-                "url": "./files/cheatsheets/LR.pdf"
+                "url": "./files/cheatsheets/Gradient Descent.pdf"
             }
 
         ]
@@ -125,12 +125,17 @@
                 "label": "Titanic.csv",
                 "type": "Dataset",
                 "url": "./files/datasets/train.csv"
-            }      ]
+            }     ,
+            {
+                "label": "EDA Notebook",
+                "type": "Notebook",
+                "url": "./files/notebooks/june_10.ipynb"
+            } ]
     },
     {
         "title": "Logistic Regression",
         "slug": "logistic-regression",
-        "level": "6 HOURS",
+        "level": "4 HOURS",
         "description": "Learn about logisitic Regression",
         "topics": [
             "Logistic Regression",
@@ -138,6 +143,32 @@
             "Loss Function",
             "Implementation of Logistic Regression from scratch",
             "Logistic Regression from Sklearn Library"
+        ],
+        "resources": [        ]
+    },
+    {
+        "title": "Machine Learning Algorithms",
+        "slug": "ml",
+        "level": "2 HOURS",
+        "description": "One Shot Recap",
+        "topics": [
+            "Algorithms used in the project",
+            "KNN",
+            "Clustering",
+            "XGBoost",
+            "Random Forest"
+        ],
+        "resources": [        ]
+    },
+    {
+        "title": "Neural Network",
+        "slug": "dl",
+        "level": "6 HOURS",
+        "description": "Neural Network",
+        "topics": [
+            "Propagation",
+            "Backpropagation",
+            "Gradient Descent"
         ],
         "resources": [        ]
     }

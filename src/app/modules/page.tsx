@@ -79,9 +79,7 @@ export default function ModulesPage() {
                         Download
                       </button>
                       
-                      <a href={resolvePublicFileUrl(res.url)} target="_blank" rel="noreferrer"  className="rounded-md bg-green-700 px-3 py-1 text-sm font-medium text-white">
-                        Open
-                      </a>
+
                     </div>
                   </div>
                 ))}

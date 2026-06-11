@@ -1,5 +1,23 @@
 [
   {
+    "title": "A beginner-friendly webinar exploring a career in Artificial Intelligence.",
+    "date": "2026-06-11",
+    "message": "Beginner-friendly webinar designed for AI/ML enthusiasts, and professionals exploring a career in Artificial Intelligence is being conducted.",
+    "link":"https://docs.google.com/forms/d/e/1FAIpQLSeLKHSxubQKcF_JF4S8Vryq3DqmY8QNB-6u9hASOX17eBvxRg/viewform",
+    "image":"../images/webinar.png"
+  },
+  {
+    "title": "Mid-Term Project Presentation Done for 1 group",
+    "date": "2026-06-10",
+    "message": "Thank you Rajendra, Sundar, Suman, Prajit and Subin for your wonderful presentation."
+  },
+  {
+    "title": "Mid-Term Project Presentation Done for 3 groups",
+    "date": "2026-06-09",
+    "message": "Thank you Jashika, Kriti, Sanjaya, Apil, Bina, Samrachana and Nischal for your wonderful presentation."
+  },
+
+  {
     "title": "Mid-Term Project Presentation Done for 2 groups",
     "date": "2026-06-08",
     "message": "Thank you Sanam, Dishan and Sujita for your wonderful presentation.\nRemaining groups, please prepare your presentation."
@@ -7,7 +25,7 @@
   {
     "title": "Gradient Descent Quiz Winner Announced",
     "date": "2026-06-07",
-    "message": "Winner -> Sujita Moktan !!!!"
+    "message": "Winner of Gradient Descent Quiz -> Sujita Moktan !!!!"
   },
   {
     "title": "Mid-Term Project Presentation Data Announced",

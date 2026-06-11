@@ -50,10 +50,22 @@ export default function ProjectsPage() {
                     rel="noreferrer"
                     className="mt-3 inline-block rounded-md bg-blue-700 px-3 py-1 text-sm font-medium text-white"
                   >
-                    View
+                    LinkedIn
                   </a>
                 ) : (
-                  <span className="mt-3 text-sm text-slate-400">No link</span>
+                  <span className="mt-3 text-sm text-slate-400"></span>
+                )}
+                {project.github_link ? (
+                  <a
+                    href={project.github_link}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="mt-3 inline-block rounded-md bg-blue-700 px-3 py-1 text-sm font-medium text-white"
+                  >
+                    Github 
+                  </a>
+                ) : (
+                  <span className="mt-3 text-sm text-slate-400"></span>
                 )}
               </div>
             </div>

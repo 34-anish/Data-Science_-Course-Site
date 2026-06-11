@@ -54,6 +54,13 @@
     "type": "PDF",
     "topic": "Gradient Descent",
     "url": "./files/cheatsheets/Gradient Descent.pdf"
+  },
+  {
+    "title": "EDA",
+    "category": "Code",
+    "type": "ipynb",
+    "topic": "EDA on Titanic Dataset ",
+    "url": "./files/notebooks/june_10.ipynb"
   }
   
 ]

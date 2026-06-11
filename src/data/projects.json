@@ -4,7 +4,8 @@
     "description": " The system processes the input (amazon or daraz product url)using NLP techniques and generates insights such as sentiment distribution, key terms, and overall product perception.",
     "leader": "Sujita Moktan",
     "members": [],
-    "link":"",
+    "link":["https://www.linkedin.com/feed/update/urn:li:activity:7469752427521462272/"],
+    "github_link":"https://github.com/MoktanSujita/Product-Review-Analytics-and-Sentiment-Analysis-System.git",
     "rating" : "5"
 
   },
@@ -21,7 +22,7 @@
     "title": "Regression Modeling",
     "description": "",
     "leader": "Rajendra Tahamata",
-    "members": ["Sundar Tamang","Suman Adhikari","Prajit Prajapati"],
+    "members": ["Sundar Tamang","Suman Adhikari","Prajit Prajapati","Subin"],
     "link":"",
     "rating" : "5"
 
@@ -31,7 +32,7 @@
     "description": "Using CVS datasets and common algorithms as mean, standared deviation sorting high to low.",
     "leader": "Apil chaulagain",
     "members": ["Ganesh Shrestha","Bina Khatri","Samrachana Kafle","Nischal Shrestha"],
-    "link":"",
+    "github_link":"https://github.com/apil-c/Python_CSV-reader",
     "rating" : "5"
 
   },
@@ -41,7 +42,7 @@
     "leader": "sirjana timalsina",
     "members": [],
     "link":"",
-    "rating" : "5"
+    "rating" : ""
     
   },
   {
@@ -49,7 +50,8 @@
     "description": "Travel Explorer",
     "leader": "Jashika Shrestha",
     "members": [],
-    "link":"",
+    "link":"https://www.linkedin.com/posts/jashika-shrestha-194626350_webdevelopment-python-streamlit-activity-7470103036481196032-yvyP",
+    "github_link":"https://github.com/Jashika111/TripNepal",
     "rating" : "5"
     
   },
@@ -58,7 +60,8 @@
     "description": "The goal of this project is to analyze and predict air quality.",
     "leader": "Kriti Mathya",
     "members": ["Sanjaya Lama"],
-    "link":"",
+    "link":"https://www.linkedin.com/posts/kriti-mathya-b7477b279_datascience-machinelearning-python-share-7469774746423975937-e2HW/",
+    "github_link":"https://github.com/kriti123680/Air-Pollution-Analysis",
     "rating" : "5"
 
   },
@@ -68,7 +71,7 @@
     "leader": "Amrit Kandel",
     "members": ["Nabin Thuyaju","Bibek Ghorasainee","Shree Pujan Adhikari"],
     "link":"",
-    "rating" : "5"
+    "rating" : ""
 
   },
   {
@@ -77,7 +80,7 @@
     "leader": "Nischal Bohaju",
     "members": ["Shijan Duwal","Agrash Shrestha"],
     "link":"",
-    "rating" : "5"
+    "rating" : ""
 
   }
 ]
