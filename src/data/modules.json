@@ -144,7 +144,23 @@
             "Implementation of Logistic Regression from scratch",
             "Logistic Regression from Sklearn Library"
         ],
-        "resources": [        ]
+        "resources": [     {
+                "label": "Logisitc Regression implementation",
+                "type": "Notebook",
+                "url": "./files/notebooks/01.ipynb"
+            }    ]
+    },
+    {
+        "title": "Evaluation of algorithms",
+        "slug": "Confusion-Matrix",
+        "level": "2 HOURS",
+        "description": "Learn about Confusion Matrix",
+        "topics": [
+           
+            "Precision",
+            "Recall"
+        ],
+        "resources": [      ]
     },
     {
         "title": "Machine Learning Algorithms",
@@ -159,17 +175,4 @@
             "Random Forest"
         ],
         "resources": [        ]
-    },
-    {
-        "title": "Neural Network",
-        "slug": "dl",
-        "level": "6 HOURS",
-        "description": "Neural Network",
-        "topics": [
-            "Propagation",
-            "Backpropagation",
-            "Gradient Descent"
-        ],
-        "resources": [        ]
-    }
-]
+    }]

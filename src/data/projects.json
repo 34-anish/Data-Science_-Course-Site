@@ -14,7 +14,7 @@
     "description": " This project aims to develop a machine learning–based Maternal Health Risk Triage System that can assist in early risk prediction by analyzing patient health parameters and classifying pregnant women into different risk categories such as Low Risk, Medium Risk, and High Risk.",
     "leader": "Sanam Marikhu",
     "members": ["Dishant Shrestha"],
-    "link":"",
+    "github_link":"https://github.com/Sanam-Marikhu/MaternalHealthRiskSystem",
     "rating" : "5"
 
   },
@@ -31,16 +31,16 @@
     "title": "salary analyzer",
     "description": "Using CVS datasets and common algorithms as mean, standared deviation sorting high to low.",
     "leader": "Apil chaulagain",
-    "members": ["Ganesh Shrestha","Bina Khatri","Samrachana Kafle","Nischal Shrestha"],
+    "members": ["Bina Khatri","Samrachana Kafle","Nischal Shrestha"],
     "github_link":"https://github.com/apil-c/Python_CSV-reader",
     "rating" : "5"
 
   },
   {
-    "title": "expense tracker",
+    "title": "Expense tracker",
     "description": "",
-    "leader": "sirjana timalsina",
-    "members": [],
+    "leader": "Sirjana timalsina",
+    "members": ["Ganesh Shrestha","Jenish Joshi"],
     "link":"",
     "rating" : ""
     
@@ -66,12 +66,12 @@
 
   },
   {
-    "title": "Simulation of a real-world business intelligence task",
+    "title": "Search Analysis",
     "description": "This project simulates a real-world business intelligence task, and deals with missing data, data types, and time-series analysis. \nLibraries Used: Pandas (heavily), NumPy, Matplotlib.",
     "leader": "Amrit Kandel",
     "members": ["Nabin Thuyaju","Bibek Ghorasainee","Shree Pujan Adhikari"],
-    "link":"",
-    "rating" : ""
+    "github_link":"https://github.com/sripujan/search_analysis",
+    "rating" : "5"
 
   },
   {
