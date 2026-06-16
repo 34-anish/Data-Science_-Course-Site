@@ -23,12 +23,12 @@
     "description": "",
     "leader": "Rajendra Tahamata",
     "members": ["Sundar Tamang","Suman Adhikari","Prajit Prajapati","Subin"],
-    "link":"",
+    "github_link":"https://github.com/reaper92345/House",
     "rating" : "5"
 
   },
   {
-    "title": "salary analyzer",
+    "title": "Salary analyzer",
     "description": "Using CVS datasets and common algorithms as mean, standared deviation sorting high to low.",
     "leader": "Apil chaulagain",
     "members": ["Bina Khatri","Samrachana Kafle","Nischal Shrestha"],
@@ -69,7 +69,7 @@
     "title": "Search Analysis",
     "description": "This project simulates a real-world business intelligence task, and deals with missing data, data types, and time-series analysis. \nLibraries Used: Pandas (heavily), NumPy, Matplotlib.",
     "leader": "Amrit Kandel",
-    "members": ["Nabin Thuyaju","Bibek Ghorasainee","Shree Pujan Adhikari"],
+    "members": ["Shree Pujan Adhikari"],
     "github_link":"https://github.com/sripujan/search_analysis",
     "rating" : "5"
 
