@@ -61,6 +61,13 @@
     "type": "ipynb",
     "topic": "EDA on Titanic Dataset ",
     "url": "./files/notebooks/june_10.ipynb"
+  },
+  {
+    "title": "Logistic Regrssion",
+    "category": "Cheat Sheet",
+    "type": "PDF",
+    "topic": "Precision Recall ",
+    "url": "./files/cheatsheets/Jun_8_logisitic_regression.pdf"
   }
   
 ]

@@ -106,7 +106,6 @@
                 "type": "Cheatsheet",
                 "url": "./files/cheatsheets/Gradient Descent.pdf"
             }
-
         ]
     },
     {
@@ -121,16 +120,18 @@
             "Logistic Regression",
             "CLassification Matrix"
         ],
-        "resources": [ {
+        "resources": [
+            {
                 "label": "Titanic.csv",
                 "type": "Dataset",
                 "url": "./files/datasets/train.csv"
-            }     ,
+            },
             {
                 "label": "EDA Notebook",
                 "type": "Notebook",
                 "url": "./files/notebooks/june_10.ipynb"
-            } ]
+            }
+        ]
     },
     {
         "title": "Logistic Regression",
@@ -144,11 +145,13 @@
             "Implementation of Logistic Regression from scratch",
             "Logistic Regression from Sklearn Library"
         ],
-        "resources": [     {
+        "resources": [
+            {
                 "label": "Logisitc Regression implementation",
                 "type": "Notebook",
                 "url": "./files/notebooks/01.ipynb"
-            }    ]
+            }
+        ]
     },
     {
         "title": "Evaluation of algorithms",
@@ -156,11 +159,14 @@
         "level": "2 HOURS",
         "description": "Learn about Confusion Matrix",
         "topics": [
-           
             "Precision",
             "Recall"
         ],
-        "resources": [      ]
+        "resources": [            {
+                "label": "Precision Recall TP FP TN FN",
+                "type": "Cheatsheet",
+                "url": "./files/cheatsheets/Jun_8_logisitic_regression.pdf"
+            }]
     },
     {
         "title": "Machine Learning Algorithms",
@@ -174,5 +180,12 @@
             "XGBoost",
             "Random Forest"
         ],
-        "resources": [        ]
-    }]
+        "resources": [
+            {
+                "label": "ML Slide by Jason Mayes",
+                "type": "Slide",
+                "url": "https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g2397597de6_0_145"
+            }
+        ]
+    }
+]
