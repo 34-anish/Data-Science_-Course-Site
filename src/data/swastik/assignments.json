@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Assignment 1: Python Basics",
+    "description": "Solve beginner-level Python exercises using variables, loops, lists, and functions.",
+    "dueDate": "2026-06-15",
+    "status": "Open",
+    "marks": 10,
+    "submissionLink": "https://forms.gle/swastik1"
+  },
+  {
+    "title": "Assignment 2: Data Manipulation with Pandas",
+    "description": "Clean and transform datasets using Pandas. Work with DataFrames, handling missing values, and data aggregation.",
+    "dueDate": "2026-06-22",
+    "status": "Open",
+    "marks": 15,
+    "submissionLink": "https://forms.gle/swastik2"
+  },
+  {
+    "title": "Assignment 3: Data Visualization",
+    "description": "Create insightful visualizations using Matplotlib and Seaborn to analyze datasets.",
+    "dueDate": "2026-06-29",
+    "status": "Upcoming",
+    "marks": 10,
+    "submissionLink": "https://forms.gle/swastik3"
+  },
+  {
+    "title": "Assignment 4: Exploratory Data Analysis",
+    "description": "Perform comprehensive EDA on a real-world dataset and present findings.",
+    "dueDate": "2026-07-06",
+    "status": "Upcoming",
+    "marks": 20,
+    "submissionLink": "https://forms.gle/swastik4"
+  }
+]

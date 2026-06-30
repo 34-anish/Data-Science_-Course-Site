@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "college": "Swastik College",
+    "collegePath": "swastik",
+    "program": "BCA Program",
+    "title": "Introduction to Data Science",
+    "description": "Comprehensive introduction to data science fundamentals for BCA students",
+    "modules": [
+      {
+        "id": 1,
+        "title": "Python Fundamentals",
+        "description": "Learn Python basics for data science"
+      },
+      {
+        "id": 2,
+        "title": "Data Manipulation with Pandas",
+        "description": "Master data cleaning and manipulation techniques"
+      },
+      {
+        "id": 3,
+        "title": "Data Visualization",
+        "description": "Create meaningful visualizations with Matplotlib and Seaborn"
+      },
+      {
+        "id": 4,
+        "title": "Statistical Basics",
+        "description": "Understand core statistics concepts"
+      }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "title": "Movie Analysis Project",
+        "description": "Analyze movie datasets and extract insights"
+      },
+      {
+        "id": 2,
+        "title": "Sales Data Visualization",
+        "description": "Visualize and analyze sales trends"
+      },
+      {
+        "id": 3,
+        "title": "Customer Segmentation",
+        "description": "Segment customers using clustering techniques"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "college": "Deerwalk College",
+    "collegePath": "deerwalk",
+    "program": "Advanced Analytics",
+    "title": "Advanced Machine Learning",
+    "description": "Industry-focused machine learning and advanced analytics program",
+    "modules": [
+      {
+        "id": 1,
+        "title": "Supervised Learning",
+        "description": "Regression and classification algorithms"
+      },
+      {
+        "id": 2,
+        "title": "Unsupervised Learning",
+        "description": "Clustering and dimensionality reduction"
+      },
+      {
+        "id": 3,
+        "title": "Deep Learning Fundamentals",
+        "description": "Neural networks and deep learning architectures"
+      },
+      {
+        "id": 4,
+        "title": "Model Optimization & Deployment",
+        "description": "Hyperparameter tuning and model deployment strategies"
+      },
+      {
+        "id": 5,
+        "title": "Time Series Analysis",
+        "description": "Forecasting and temporal data analysis"
+      }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "title": "Predictive Sales Forecasting",
+        "description": "Build predictive models for sales forecasting"
+      },
+      {
+        "id": 2,
+        "title": "Customer Churn Prediction",
+        "description": "Predict customer churn using advanced ML techniques"
+      },
+      {
+        "id": 3,
+        "title": "Sentiment Analysis System",
+        "description": "NLP project analyzing customer sentiment from reviews"
+      },
+      {
+        "id": 4,
+        "title": "Recommendation Engine",
+        "description": "Build a recommendation system using collaborative filtering"
+      }
+    ]
+  }
+]

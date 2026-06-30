@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Product Sentiment Analysis",
+    "description": " The system processes the input (amazon or daraz product url)using NLP techniques and generates insights such as sentiment distribution, key terms, and overall product perception.",
+    "leader": "Sujita Moktan",
+    "members": [],
+    "link":["https://www.linkedin.com/feed/update/urn:li:activity:7469752427521462272/"],
+    "github_link":"https://github.com/MoktanSujita/Product-Review-Analytics-and-Sentiment-Analysis-System.git",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Maternal Health Risk Triage System using Machine Learning",
+    "description": " This project aims to develop a machine learning–based Maternal Health Risk Triage System that can assist in early risk prediction by analyzing patient health parameters and classifying pregnant women into different risk categories such as Low Risk, Medium Risk, and High Risk.",
+    "leader": "Sanam Marikhu",
+    "members": ["Dishant Shrestha"],
+    "github_link":"https://github.com/Sanam-Marikhu/MaternalHealthRiskSystem",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Regression Modeling",
+    "description": "",
+    "leader": "Rajendra Tahamata",
+    "members": ["Sundar Tamang","Suman Adhikari","Prajit Prajapati","Subin"],
+    "github_link":"https://github.com/reaper92345/House",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Salary analyzer",
+    "description": "Using CVS datasets and common algorithms as mean, standared deviation sorting high to low.",
+    "leader": "Apil chaulagain",
+    "members": ["Bina Khatri","Samrachana Kafle","Nischal Shrestha"],
+    "github_link":"https://github.com/apil-c/Python_CSV-reader",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Expense tracker",
+    "description": "",
+    "leader": "Sirjana timalsina",
+    "members": ["Ganesh Shrestha","Jenish Joshi"],
+    "link":"",
+    "rating" : ""
+    
+  },
+  {
+    "title": "Trip Nepal ",
+    "description": "Travel Explorer",
+    "leader": "Jashika Shrestha",
+    "members": [],
+    "link":"https://www.linkedin.com/posts/jashika-shrestha-194626350_webdevelopment-python-streamlit-activity-7470103036481196032-yvyP",
+    "github_link":"https://github.com/Jashika111/TripNepal",
+    "rating" : "5"
+    
+  },
+  {
+    "title": "Air Pollution Analysis",
+    "description": "The goal of this project is to analyze and predict air quality.",
+    "leader": "Kriti Mathya",
+    "members": ["Sanjaya Lama"],
+    "link":"https://www.linkedin.com/posts/kriti-mathya-b7477b279_datascience-machinelearning-python-share-7469774746423975937-e2HW/",
+    "github_link":"https://github.com/kriti123680/Air-Pollution-Analysis",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Search Analysis",
+    "description": "This project simulates a real-world business intelligence task, and deals with missing data, data types, and time-series analysis. \nLibraries Used: Pandas (heavily), NumPy, Matplotlib.",
+    "leader": "Amrit Kandel",
+    "members": ["Shree Pujan Adhikari"],
+    "github_link":"https://github.com/sripujan/search_analysis",
+    "rating" : "5"
+
+  },
+  {
+    "title": "About customer churn prediction ",
+    "description": "",
+    "leader": "Nischal Bohaju",
+    "members": ["Shijan Duwal","Agrash Shrestha"],
+    "link":"",
+    "rating" : ""
+
+  }
+]
