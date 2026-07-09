@@ -3,9 +3,11 @@ import Link from "next/link";
 const links = [
 
   { href: "/teaching", label: "Teaching" },
+  { href: "/teaching/swastik", label: "Swastik" },
+  { href: "/teaching/deerwalk", label: "Deerwalk" },
   // { href: "/projects", label: "Projects" },
   // { href: "/announcements", label: "Announcements" },
-  { href: "/contact", label: "Contact" }
+  { href: "https://www.linkedin.com/in/anish-manandhar-815209191/", label: "Contact" }
 ];
 
 export default function Navbar() {

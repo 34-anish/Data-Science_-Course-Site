@@ -48,7 +48,7 @@ const testimonials = [
     name: "Mala Deep Upadhaya",
     role: "Lecturer | Researcher  ",
     quote:
-    " Focused on reliability, optimization, and seamless integration of AI-driven logic into business-critical systems",
+    " One word to represent Anish is 'wonderful'.",
   },
 ];
 
