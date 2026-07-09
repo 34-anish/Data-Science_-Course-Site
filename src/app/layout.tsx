@@ -3,8 +3,8 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 
 export const metadata: Metadata = {
-  title: "Data Science Learning Hub",
-  description: "Notes, notebooks, datasets, assignments, and projects for Data Science students."
+  title: "Anish Manandhar",
+  description: "Portfolio."
 };
 
 export default function RootLayout({
