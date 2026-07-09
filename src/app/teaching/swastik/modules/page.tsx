@@ -1,6 +1,6 @@
 "use client";
 
-import modulesData from "@/data/modules.json";
+import modulesData from "@/data/swastik/modules.json";
 import { resolvePublicFileUrl } from "@/lib/publicFileUrl";
 
 type Resource = {

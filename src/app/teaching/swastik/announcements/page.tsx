@@ -1,4 +1,4 @@
-import announcements from "@/data/announcements.json";
+import announcements from "@/data/swastik/announcements.json";
 
 export default function announcementsPage() {
   return (

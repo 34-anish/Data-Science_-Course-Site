@@ -1,14 +1,13 @@
 import Link from "next/link";
 
 const links = [
-  { href: "/", label: "Home" },
   { href: "/modules", label: "Modules" },
   { href: "/resources", label: "Resources" },
   { href: "/teaching", label: "Teaching" },
   // { href: "/assignments", label: "Assignments" },
   { href: "/projects", label: "Projects" },
   { href: "/announcements", label: "Announcements" },
-  { href: "/contact", label: "Contact" }
+  // { href: "/contact", label: "Contact" }
 ];
 
 export default function Navbar() {
@@ -16,7 +15,7 @@ export default function Navbar() {
     <header className="border-b border-slate-200 bg-white">
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
         <Link href="/" className="text-xl font-bold text-blue-800">
-          Data Science
+          Home
         </Link>
 
         <div className="hidden gap-6 md:flex">

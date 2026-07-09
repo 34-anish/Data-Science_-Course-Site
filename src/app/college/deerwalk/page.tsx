@@ -1,8 +1,8 @@
 import Link from "next/link";
-import modules from "@/data/modules.json";
-import resources from "@/data/resources.json";
-import projects from "@/data/projects.json";
-import assignments from "@/data/assignments.json";
+import modules from "@/data/swastik/modules.json";
+import resources from "@/data/swastik/resources.json";
+import projects from "@/data/swastik/projects.json";
+import assignments from "@/data/swastik/assignments.json";
 
 export default function DeerwalkCollegePage() {
   return (
