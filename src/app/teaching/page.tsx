@@ -78,26 +78,7 @@ export default function TeachingPage() {
                   {program.description}
                 </p>
 
-                <div className="flex flex-wrap gap-2 mb-6">
-                  <span
-                    className={`px-3 py-1 rounded-full text-sm font-semibold ${
-                      program.collegePath === "swastik"
-                        ? "bg-blue-100 text-blue-800"
-                        : "bg-teal-100 text-teal-800"
-                    }`}
-                  >
-                    {program.modules.length} Modules
-                  </span>
-                  <span
-                    className={`px-3 py-1 rounded-full text-sm font-semibold ${
-                      program.collegePath === "swastik"
-                        ? "bg-blue-100 text-blue-800"
-                        : "bg-teal-100 text-teal-800"
-                    }`}
-                  >
-                    {program.projects.length} Projects
-                  </span>
-                </div>
+                
 
                 <div
                   className={`flex items-center gap-2 font-semibold group-hover:gap-3 transition-all ${
@@ -126,24 +107,25 @@ export default function TeachingPage() {
               <ul className="space-y-2 text-sm text-slate-700">
                 <li>✓ BCA Program Focus</li>
                 <li>✓ Beginner to Intermediate</li>
-                <li>✓ Fundamentals-First Approach</li>
-                <li>✓ 4 Core Modules</li>
-                <li>✓ 3 Hands-on Projects</li>
+                <li> Industry-Driven Approach</li>
+                <li>✓ 9 Core Modules</li>
+                <li>✓ 10 Resources</li>
+                <li>✓ 30 Students</li>
+                <li>✓ 9 Projects</li>
               </ul>
             </div>
 
             <div className="rounded-xl bg-white p-6 border-l-4 border-teal-500">
               <h3 className="font-bold text-slate-900 mb-3">Deerwalk College</h3>
               <ul className="space-y-2 text-sm text-slate-700">
-                <li>✓ Advanced Analytics Focus</li>
-                <li>✓ Intermediate to Advanced</li>
-                <li>✓ Industry-Driven Approach</li>
-                <li>✓ 5 Advanced Modules</li>
-                <li>✓ 4 Industry Projects</li>
+                <li>✓ Advanced Python Programming</li>
+                <li>✓ Beginner to Intermediate</li>
+                <li>✓ Fundamentals-First Approach</li>
+                <li>✓ Ongoing</li>
               </ul>
             </div>
 
-            <div className="rounded-xl bg-white p-6 border-l-4 border-purple-500">
+            {/* <div className="rounded-xl bg-white p-6 border-l-4 border-purple-500">
               <h3 className="font-bold text-slate-900 mb-3">Both Programs</h3>
               <ul className="space-y-2 text-sm text-slate-700">
                 <li>✓ Hands-On Learning</li>
@@ -152,7 +134,7 @@ export default function TeachingPage() {
                 <li>✓ Project-Based</li>
                 <li>✓ Mentorship Support</li>
               </ul>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
@@ -168,21 +150,21 @@ export default function TeachingPage() {
 
           <div className="rounded-xl bg-teal-50 p-6 text-center border-2 border-teal-200">
             <p className="text-4xl font-bold text-teal-800">
-              {teaching.reduce((sum, p) => sum + p.modules.length, 0)}
+              20+
             </p>
             <p className="text-slate-700 mt-2 font-medium">Total Modules</p>
           </div>
 
           <div className="rounded-xl bg-purple-50 p-6 text-center border-2 border-purple-200">
             <p className="text-4xl font-bold text-purple-800">
-              {teaching.reduce((sum, p) => sum + p.projects.length, 0)}
+              10+
             </p>
             <p className="text-slate-700 mt-2 font-medium">Hands-On Projects</p>
           </div>
 
           <div className="rounded-xl bg-orange-50 p-6 text-center border-2 border-orange-200">
             <p className="text-4xl font-bold text-orange-800">
-              {teaching.reduce((sum, p) => sum + p.modules.length + p.projects.length, 0)}
+              20+
             </p>
             <p className="text-slate-700 mt-2 font-medium">Learning Units</p>
           </div>

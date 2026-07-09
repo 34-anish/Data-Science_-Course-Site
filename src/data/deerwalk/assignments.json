@@ -1,34 +1,10 @@
 [
   {
-    "title": "Assignment 1: Ensemble Methods",
-    "description": "Implement Random Forest, Gradient Boosting, and Voting classifiers. Compare performance metrics.",
-    "dueDate": "2026-06-18",
+    "title": "Assignment 1: Python Basics",
+    "description": "Solve beginner-level Python exercises using variables, loops, lists, and functions.",
+    "dueDate": "2026-06-15",
     "status": "Open",
-    "marks": 25,
-    "submissionLink": "https://forms.gle/deerwalk1"
-  },
-  {
-    "title": "Assignment 2: Deep Learning Fundamentals",
-    "description": "Build neural networks using TensorFlow/Keras. Implement CNNs and RNNs from scratch.",
-    "dueDate": "2026-06-25",
-    "status": "Open",
-    "marks": 30,
-    "submissionLink": "https://forms.gle/deerwalk2"
-  },
-  {
-    "title": "Assignment 3: Natural Language Processing",
-    "description": "Work with text data using NLP techniques: tokenization, embeddings, sentiment analysis.",
-    "dueDate": "2026-07-02",
-    "status": "Upcoming",
-    "marks": 25,
-    "submissionLink": "https://forms.gle/deerwalk3"
-  },
-  {
-    "title": "Capstone Project",
-    "description": "Complete your capstone project combining all learned techniques for a real-world problem.",
-    "dueDate": "2026-07-28",
-    "status": "Upcoming",
-    "marks": 100,
-    "submissionLink": "https://forms.gle/deerwalk-capstone"
+    "marks": 10,
+    "submissionLink": "https://forms.gle/example"
   }
 ]

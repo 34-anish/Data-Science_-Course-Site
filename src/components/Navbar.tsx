@@ -1,13 +1,11 @@
 import Link from "next/link";
 
 const links = [
-  { href: "/modules", label: "Modules" },
-  { href: "/resources", label: "Resources" },
+
   { href: "/teaching", label: "Teaching" },
-  // { href: "/assignments", label: "Assignments" },
-  { href: "/projects", label: "Projects" },
-  { href: "/announcements", label: "Announcements" },
-  // { href: "/contact", label: "Contact" }
+  // { href: "/projects", label: "Projects" },
+  // { href: "/announcements", label: "Announcements" },
+  { href: "/contact", label: "Contact" }
 ];
 
 export default function Navbar() {

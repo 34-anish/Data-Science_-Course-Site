@@ -1,4 +1,4 @@
-import resources from "@/data/swastik/resources.json";
+import resources from "@/data/deerwalk/resources.json";
 import { resolvePublicFileUrl } from "@/lib/publicFileUrl";
 
 export default function ResourcesPage() {

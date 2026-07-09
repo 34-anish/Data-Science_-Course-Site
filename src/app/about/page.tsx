@@ -101,7 +101,7 @@ export default function AboutPage() {
               Explore Teaching Programs
             </a>
             <a
-              href="/contact"
+              href="https://www.linkedin.com/in/anish-manandhar-815209191/"
               className="rounded-lg border border-white px-6 py-3 font-medium text-white hover:bg-blue-600"
             >
               Contact Me

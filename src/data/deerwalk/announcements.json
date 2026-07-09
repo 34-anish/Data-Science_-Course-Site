@@ -1,36 +1,7 @@
 [
   {
-    "title": "Advanced ML Bootcamp Kickoff",
-    "date": "2026-06-17",
-    "message": "Welcome to the Advanced ML Bootcamp! Classes start today with introduction to ensemble methods.",
-    "image": "../images/images.jpeg"
-  },
-  {
-    "title": "Industry Expert Talk: Deep Learning Applications",
-    "date": "2026-06-16",
-    "message": "Join us for an insightful talk by industry experts discussing real-world deep learning applications.",
-    "link": "https://forms.gle/deerwalk-expert",
-    "image": "../images/webinar.png"
-  },
-  {
-    "title": "Project Submission Deadline Extended",
-    "date": "2026-06-14",
-    "message": "Due to popular request, the capstone project submission deadline has been extended to June 28."
-  },
-  {
-    "title": "Kaggle Competition Launch",
-    "date": "2026-06-12",
-    "message": "We are launching an exclusive Kaggle competition for our students. Win exciting prizes!",
-    "link": "https://kaggle.com"
-  },
-  {
-    "title": "Advanced Topics in NLP Session",
-    "date": "2026-06-10",
-    "message": "This week we'll cover transformers, BERT, and fine-tuning techniques for NLP tasks."
-  },
-  {
-    "title": "Career Mentorship Program Announced",
-    "date": "2026-06-08",
-    "message": "New mentorship program connecting students with industry professionals for career guidance."
+    "title": "Welcome Class For Everyone",
+    "date": "2026-06-29",
+    "message": "Welcome everyone from grade 12 to the course site"
   }
 ]

@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Introductory Class",
+        "slug": "introduction-to-data-science",
+        "level": "1 HOUR 20 MINUTES",
+        "description": "Introductory Sessions, Syllabus, Project Guidelines.",
+        "topics": [
+            "Introduction",
+            "Project",
+            "Syllabus",
+            "Data Science",
+            "Data Wrangling",
+            "Python Agendas"
+        ],
+        "resources": [
+            {
+                "label": "Lecture Slides",
+                "type": "PDF",
+                "url": "././files/pdfs/Data Science 01.pdf"
+            }
+        ]
+    }
+    
+]
