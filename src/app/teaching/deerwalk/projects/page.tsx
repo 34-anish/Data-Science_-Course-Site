@@ -1,4 +1,16 @@
-import projects from "@/data/deerwalk/projects.json";
+import projectsData from "@/data/deerwalk/projects.json";
+
+type Project = {
+  title?: string;
+  description?: string;
+  leader?: string;
+  members?: string[];
+  link?: string | string[];
+  github_link?: string;
+  rating?: string | number;
+};
+
+const projects = projectsData as Project[];
 
 export default function ProjectsPage() {
   return (
@@ -12,13 +24,13 @@ export default function ProjectsPage() {
       </div>
 
       <div className="mt-8 grid gap-6 md:grid-cols-3">
-        {projects.map((project) => (
+        {projects.map((project, index) => (
           <article
-            key={project.title}
+            key={project.title || project.github_link || `project-${index}`}
             className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm"
           >
             <h2 className="text-lg font-semibold text-slate-900">
-              {project.title}
+              {project.title || "Untitled Project"}
             </h2>
 
             <p className="mt-2 text-sm text-slate-600">

@@ -12,13 +12,13 @@ export default function ProjectsPage() {
       </div>
 
       <div className="mt-8 grid gap-6 md:grid-cols-3">
-        {projects.map((project) => (
+        {projects.map((project, index) => (
           <article
-            key={project.title}
+            key={project.title || project.github_link || `project-${index}`}
             className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm"
           >
             <h2 className="text-lg font-semibold text-slate-900">
-              {project.title}
+              {project.title || "Untitled Project"}
             </h2>
 
             <p className="mt-2 text-sm text-slate-600">
