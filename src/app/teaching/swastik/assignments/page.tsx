@@ -1,6 +1,6 @@
 "use client";
 
-import assignmentsData from "@/data/assignments.json";
+import assignmentsData from "@/data/swastik/assignments.json";
 import { resolvePublicFileUrl } from "@/lib/publicFileUrl";
 
 type Assignment = {

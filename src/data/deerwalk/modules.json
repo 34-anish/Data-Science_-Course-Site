@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Introductory Class",
+        "slug": "introduction-to-data-science",
+        "level": "1 HOUR 20 MINUTES",
+        "description": "Introductory Sessions, Syllabus, Project Guidelines.",
+        "topics": [
+            "Introduction",
+            "Project",
+            "Syllabus",
+            "Data Science",
+            "Data Wrangling",
+            "Python Agendas"
+        ],
+        "resources": [
+            {
+                "label": "Lecture Slides",
+                "type": "PDF",
+                "url": "././files/pdfs/Deerwalk/Data Science 01.pdf"
+            }
+        ]
+    },
+    {
+        "title": "Hello World of Python",
+        "slug": "hello-world-python",
+        "level": "1 HOUR 20 MINUTES",
+        "description": "Code Editor,Python Installer,Hello World, Operators",
+        "topics": [
+            "VsCode",
+            "How to install Python",
+            "Hello World",
+            "Data Types",
+            "split()",
+            "Operators"
+        ],
+        "resources": [
+            {
+                "label": "Code",
+                "type": "Python File",
+                "url": "././files/code/Deerwalk/1st_day.py"
+            }
+        ]
+    }
+    
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "college": "Swastik College",
+    "collegePath": "swastik",
+    "program": "BCA Program",
+    "title": "Introduction to Data Science",
+    "description": "Comprehensive introduction to data science fundamentals for BCA students"
+  },
+  {
+    "id": 2,
+    "college": "Deerwalk College",
+    "collegePath": "deerwalk",
+    "program": "Grade 12",
+    "title": "Advanced Python Programming",
+    "description": "Industry-focused advanced python programming and data science"
+
+  }
+]

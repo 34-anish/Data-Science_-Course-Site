@@ -1,4 +1,4 @@
-import projects from "@/data/swastik/projects.json";
+import projects from "@/data/deerwalk/projects.json";
 
 export default function ProjectsPage() {
   return (
