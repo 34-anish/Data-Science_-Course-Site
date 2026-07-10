@@ -4,7 +4,14 @@
     "category": "Cheat Sheet",
     "type": "PDF",
     "topic": "Introduction to Data Science",
-    "url": "/files/pdfs/Data Science 01.pdf"
+    "url": "/files/pdfs/Deerwalk/Data Science 01.pdf"
+  },
+  {
+    "title": "Hello World in Python",
+    "category": "Code",
+    "type": ".py",
+    "topic": "Introduction to Python",
+    "url": "/files/codes/Deerwalk/1st_day.py"
   }
   
 ]
