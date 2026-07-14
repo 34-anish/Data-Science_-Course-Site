@@ -111,7 +111,7 @@ export default function TeachingPage() {
                 <li>✓ 9 Core Modules</li>
                 <li>✓ 10 Resources</li>
                 <li>✓ 30 Students</li>
-                <li>✓ 9 Projects</li>
+                <li>✓ 8 Projects</li>
               </ul>
             </div>
 
