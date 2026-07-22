@@ -40,6 +40,24 @@
                 "url": "././files/code/Deerwalk/1st_day.py"
             }
         ]
+    },
+    {
+        "title": "Operators & List",
+        "slug": "operators-list",
+        "level": "1 HOUR 20 MINUTES",
+        "description": "Operators, List, List Comprehension",
+        "topics": [
+            "Operators",
+            "List",
+            "List Comprehension"
+        ],
+        "resources": [
+            {
+                "label": "Code",
+                "type": "Python File",
+                "url": "././files/code/Deerwalk/2nd_day.py"
+            }
+        ]
     }
     
 ]

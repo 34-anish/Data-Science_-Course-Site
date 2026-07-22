@@ -12,6 +12,13 @@
     "type": ".py",
     "topic": "Introduction to Python",
     "url": "/files/codes/Deerwalk/1st_day.py"
+  },
+  {
+    "title": "Operators in Python",
+    "category": "Code",
+    "type": ".py",
+    "topic": "Operators | List",
+    "url": "/files/codes/Deerwalk/2nd_day.py"
   }
   
 ]
