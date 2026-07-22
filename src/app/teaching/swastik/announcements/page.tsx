@@ -127,7 +127,7 @@ export default function AnnouncementsPage() {
                   rel="noopener noreferrer"
                   className="mt-7 inline-block rounded-xl bg-teal-600 px-5 py-3 text-sm font-semibold text-white transition hover:bg-teal-700"
                 >
-                  Register / Learn More
+                  Link
                 </a>
               )}
             </div>
