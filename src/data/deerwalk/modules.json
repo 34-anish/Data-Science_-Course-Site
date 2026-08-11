@@ -58,6 +58,44 @@
                 "url": "././files/code/Deerwalk/2nd_day.py"
             }
         ]
+    },
+    {
+        "title": "Introduction to Functions",
+        "slug": "functions-args-kwargs",
+        "level": "1 HOUR 20 MINUTES",
+        "description": "Functions, parameters, arguments",
+        "topics": [
+            "Functions",
+            "Lambda Function",
+            "*args",
+            "**kwargs"
+        ],
+        "resources": [
+            {
+                "label": "Code",
+                "type": "Python File",
+                "url": "././files/code/Deerwalk/3rd_day.py"
+            }
+        ]
+    },
+    {
+        "title": "Introduction to Object Oriented Programming",
+        "slug": "oop-constuctor-class",
+        "level": "1 HOUR 20 MINUTES",
+        "description": "Class",
+        "topics": [
+            "OOP",
+            "Class",
+            "constructor",
+            "Class attributes"
+        ],
+        "resources": [
+            {
+                "label": "Code",
+                "type": "Python File",
+                "url": "././files/code/Deerwalk/4th_day.py"
+            }
+        ]
     }
     
 ]

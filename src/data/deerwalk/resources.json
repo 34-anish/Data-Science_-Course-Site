@@ -19,6 +19,20 @@
     "type": ".py",
     "topic": "Operators | List",
     "url": "/files/codes/Deerwalk/2nd_day.py"
+  },
+  {
+    "title": "Functions in Python",
+    "category": "Code",
+    "type": ".py",
+    "topic": "Functions | Lambda Function",
+    "url": "/files/codes/Deerwalk/3rd_day.py"
+  },
+  {
+    "title": "OOP in Python",
+    "category": "Code",
+    "type": ".py",
+    "topic": "Class | Constructor",
+    "url": "/files/codes/Deerwalk/4th_day.py"
   }
   
 ]
