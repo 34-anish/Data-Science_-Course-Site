@@ -1,3 +1,33 @@
 [
-    
+
+  {
+    "title": "Diabetes Prediction Using Machine Learning",
+    "description": "a machine learning model capable of predicting whether a patient is likely to have diabetes using health-related data",
+    "leader": "Abanish Dhakal",
+    "members": ["Arman Shrestha", "Syed Samad Shah" , "Aakanchha Kharel"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Dynamic Lighting System from Hand Gestures",
+    "description": "Integrate Python OpenCV with Arduino Hardware.",
+    "leader": "Anshudeep Amgai",
+    "members": [],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Fake news / spam detection dataset",
+    "description": "Predict and identify if a message/news is fake or real",
+    "leader": "Samrajya Bikram Bohara",
+    "members": ["Saksham Prasai","Samman Sedhai","Saurya Bikram Bisht"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  }
 ]
