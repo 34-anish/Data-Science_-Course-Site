@@ -96,6 +96,28 @@
                 "url": "././files/code/Deerwalk/4th_day.py"
             }
         ]
+    },
+    {
+        "title": "File Handling",
+        "slug": "file-handling",
+        "level": "1 HOUR 20 MINUTES",
+        "description": "File Manipulation",
+        "topics": [
+            "Open",
+            "Close"
+        ],
+        "resources": [
+            {
+                "label": "PDF",
+                "type": "Python PDF",
+                "url": "././files/code/Deerwalk/5th_day.pdf"
+            },
+            {
+                "label": "required file",
+                "type": "txt",
+                "url": "././files/code/Deerwalk/example.txt"
+            }
+        ]
     }
     
 ]
