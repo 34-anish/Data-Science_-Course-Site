@@ -11,10 +11,20 @@
 
   },
   {
-    "title": "Dynamic Lighting System from Hand Gestures",
-    "description": "Integrate Python OpenCV with Arduino Hardware.",
+    "title": "Virtual Drum with hardware visualizer and Sketchboard",
+    "description": "Multiverse of IOT",
     "leader": "Anshudeep Amgai",
-    "members": [],
+    "members": ["Samir Ghimire"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Gesture based musical program",
+    "description": "Two-part live instrument",
+    "leader": "Niaz Shrestha",
+    "members": ["Rhythm Adhikari"],
     "link":"",
     "github_lnk":"",
     "rating" : "5"
@@ -25,6 +35,106 @@
     "description": "Predict and identify if a message/news is fake or real",
     "leader": "Samrajya Bikram Bohara",
     "members": ["Saksham Prasai","Samman Sedhai","Saurya Bikram Bisht"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "A hand gesture based CAD using ml models",
+    "description": "3D voxel making using openml",
+    "leader": "Gehendraraj Pyakurel",
+    "members": ["Arpan Chalise", "Bivaan Poudel", "Aahan Raj Shrestha"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Student Grade Management System",
+    "description": "Python Project",
+    "leader": "Aarjan Shrestha",
+    "members": ["Pranisha Shrestha"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "House Price Analyzer",
+    "description": "Nepali House Price Prediction",
+    "leader": "Atharva Poudyal",
+    "members": ["Pratyush Adhikari" ,"Gaurav Kumar Pandit", "Ishan dangol"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "A Machine Learning Approach to Football Player Profiling and Scouting",
+    "description": "Sport Analytics",
+    "leader": "Binayak Raj Sedhain",
+    "members": [],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Text Analyzer",
+    "description": "NLP Project",
+    "leader": "Sulabh Thami",
+    "members": ["Suyeenek Kaushik"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Heart Disease Prediction Using Machine Learning",
+    "description": "Using UCI Dataset",
+    "leader": "Manavi Regmi",
+    "members": ["Sakcham Bikram Thapa","Sujan Katuwal","Omras Bhattarai"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Analysis of the Global Economy in the Past Year using Python",
+    "description": "Datavisualization",
+    "leader": "Ashish Dahal",
+    "members": ["Pratik Dangol", "Mohit Tamang", "Bishal Ilkook Dangi"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Calorie Calculator",
+    "description": "Healthcare",
+    "leader": "Krish Pokhrel",
+    "members": ["Satkrit Pokharel", "Hridesh Dahal", "Shrey Neupane"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Vegetable Recommendation Using Machine Learning",
+    "description": "Based On Soil & Environmental Conditions",
+    "leader": "Swikriti Ale Magar",
+    "members": ["Tshechi Tamang", "Ritika Rajbhandari", "Amisha Sunar"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Student Academic Performance Prediction",
+    "description": "Using Machine Learning",
+    "leader": "Sonu Shrestha",
+    "members": ["Tashi Lhamu Sherpa"],
     "link":"",
     "github_lnk":"",
     "rating" : "5"
