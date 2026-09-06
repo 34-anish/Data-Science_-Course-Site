@@ -9,30 +9,44 @@
   {
     "title": "Hello World in Python",
     "category": "Code",
-    "type": ".py",
+    "type": "Python File",
     "topic": "Introduction to Python",
     "url": "/files/codes/Deerwalk/1st_day.py"
   },
   {
     "title": "Operators in Python",
     "category": "Code",
-    "type": ".py",
+    "type": "Python File",
     "topic": "Operators | List",
     "url": "/files/codes/Deerwalk/2nd_day.py"
   },
   {
     "title": "Functions in Python",
     "category": "Code",
-    "type": ".py",
+    "type": "Python File",
     "topic": "Functions | Lambda Function",
     "url": "/files/codes/Deerwalk/3rd_day.py"
   },
   {
     "title": "OOP in Python",
     "category": "Code",
-    "type": ".py",
+    "type": "Python File",
     "topic": "Class | Constructor",
     "url": "/files/codes/Deerwalk/4th_day.py"
+  },
+  {
+    "title": "Inheritance",
+    "category": "Code",
+    "type": "Python File",
+    "topic": "Pillars Of Oop",
+    "url": "/files/codes/Deerwalk/6th_day.py"
+  },
+  {
+    "title": "Exception Handling",
+    "category": "Code",
+    "type": "Python File",
+    "topic": "Errors ",
+    "url": "/files/codes/Deerwalk/7th_day.py"
   }
   
 ]

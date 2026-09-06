@@ -98,6 +98,25 @@
         ]
     },
     {
+        "title": "Pillars Of Object Oriented Programming",
+        "slug": "inheritance-polymorphism",
+        "level": "1 HOUR 20 MINUTES",
+        "description": "Class",
+        "topics": [
+            "Inheritance",
+            "Encapsulation",
+            "Polymorphisma",
+            "Abstraction"
+        ],
+        "resources": [
+            {
+                "label": "Code",
+                "type": "Python File",
+                "url": "././files/code/Deerwalk/6th_day.py"
+            }
+        ]
+    },
+    {
         "title": "File Handling",
         "slug": "file-handling",
         "level": "1 HOUR 20 MINUTES",
@@ -118,6 +137,24 @@
                 "url": "././files/code/Deerwalk/example.txt"
             }
         ]
+    },
+    {
+        "title": "Exception Handling",
+        "slug": "error-file-handling",
+        "level": "1 HOUR 20 MINUTES",
+        "description": "Exception",
+        "topics": [
+            "try-catch",
+            "finally",
+            "with block",
+            "Modes of File Handling"
+        ],
+        "resources": [
+            {
+                "label": "Code",
+                "type": "Python File",
+                "url": "././files/code/Deerwalk/7th_day.py"
+            }
+        ]
     }
-    
-]
+    ]

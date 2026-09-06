@@ -29,6 +29,7 @@ export default function ResourcesPage() {
 
             <a
               href={resolvePublicFileUrl(resource.url)}
+              download
               className="mt-4 inline-block rounded-lg bg-blue-700 px-4 py-2 text-sm font-medium text-white"
             >
               Download
