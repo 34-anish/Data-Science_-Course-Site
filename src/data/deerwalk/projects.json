@@ -91,6 +91,16 @@
 
   },
   {
+    "title": "Library Management System",
+    "description": "Python Project",
+    "leader": "Kritanjali",
+    "members": ["Aashiya", "Sameeha"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
     "title": "Heart Disease Prediction Using Machine Learning",
     "description": "Using UCI Dataset",
     "leader": "Manavi Regmi",
@@ -135,6 +145,16 @@
     "description": "Using Machine Learning",
     "leader": "Sonu Shrestha",
     "members": ["Tashi Lhamu Sherpa"],
+    "link":"",
+    "github_lnk":"",
+    "rating" : "5"
+
+  },
+  {
+    "title": "Game Development",
+    "description": "Using Simple and Basic Shapes",
+    "leader": "Diamond Acharya",
+    "members": ["Anuj Duwadi"],
     "link":"",
     "github_lnk":"",
     "rating" : "5"

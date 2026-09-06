@@ -42,11 +42,24 @@
     "url": "/files/codes/Deerwalk/6th_day.py"
   },
   {
+    "title": "Pillars of Oop",
+    "category": "Cheat Sheet",
+    "type": "PDF",
+    "topic": "Advanced Topics on Oop",
+    "url": "/files/pdfs/Deerwalk/Pillars_of_Oop.pdf"
+  },
+  {
     "title": "Exception Handling",
     "category": "Code",
     "type": "Python File",
     "topic": "Errors ",
     "url": "/files/codes/Deerwalk/7th_day.py"
+  },
+  {
+    "title": "Model Question",
+    "category": "PDF",
+    "type": "Sample Question Paper",
+    "topic": "1st Term",
+    "url": "././files/pdfs/Deerwalk/SAMPLE_PYTHON_QUESTION.pdf"
   }
-  
 ]
