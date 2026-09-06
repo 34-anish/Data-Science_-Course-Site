@@ -37,7 +37,7 @@
             {
                 "label": "Code",
                 "type": "Python File",
-                "url": "././files/code/Deerwalk/1st_day.py"
+                "url": "/files/codes/Deerwalk/1st_day.py"
             }
         ]
     },
@@ -55,7 +55,7 @@
             {
                 "label": "Code",
                 "type": "Python File",
-                "url": "././files/code/Deerwalk/2nd_day.py"
+                "url": "/files/codes/Deerwalk/2nd_day.py"
             }
         ]
     },
@@ -74,7 +74,7 @@
             {
                 "label": "Code",
                 "type": "Python File",
-                "url": "././files/code/Deerwalk/3rd_day.py"
+                "url": "/files/codes/Deerwalk/3rd_day.py"
             }
         ]
     },
@@ -93,7 +93,7 @@
             {
                 "label": "Code",
                 "type": "Python File",
-                "url": "././files/code/Deerwalk/4th_day.py"
+                "url": "/files/codes/Deerwalk/4th_day.py"
             }
         ]
     },
@@ -112,12 +112,12 @@
             {
                 "label": "Code",
                 "type": "Python File",
-                "url": "././files/code/Deerwalk/6th_day.py"
+                "url": "/files/codes/Deerwalk/6th_day.py"
             },
-                    {
+            {
                 "label": "PDF",
                 "type": "Slide",
-                "url": "././files/pdfs/Deerwalk/Pillars_of_Oop.pdf"
+                "url": "/files/pdfs/Deerwalk/Pillars_of_Oop.pdf"
             }
         ]
     },
@@ -134,12 +134,12 @@
             {
                 "label": "PDF",
                 "type": "Python PDF",
-                "url": "././files/code/Deerwalk/5th_day.pdf"
+                "url": "/files/codes/Deerwalk/5th_day.pdf"
             },
             {
                 "label": "required file",
                 "type": "txt",
-                "url": "././files/code/Deerwalk/example.txt"
+                "url": "/files/codes/Deerwalk/example.txt"
             }
         ]
     },
@@ -158,7 +158,7 @@
             {
                 "label": "Code",
                 "type": "Python File",
-                "url": "././files/code/Deerwalk/7th_day.py"
+                "url": "/files/codes/Deerwalk/7th_day.py"
             }
         ]
     },
@@ -177,8 +177,8 @@
             {
                 "label": "Code",
                 "type": "Python File",
-                "url": "././files/pdfs/Deerwalk/SAMPLE_PYTHON_QUESTION.pdf"
+                "url": "/files/pdfs/Deerwalk/SAMPLE_PYTHON_QUESTION.pdf"
             }
         ]
     }
-    ]
+]
